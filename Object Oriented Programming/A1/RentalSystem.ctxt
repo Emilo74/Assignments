@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=RentalSystem
+comment1.params=
+comment1.target=RentalSystem()
+comment2.params=
+comment2.target=java.lang.String\ getBookingGrid()
+comment3.params=bookingID
+comment3.target=java.lang.String\ getBooking(int)
+comment4.params=roomID
+comment4.target=java.lang.String\ getBookingsByRoom(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getRoomList()
+comment6.params=name\ seatingCapacity
+comment6.target=java.lang.String\ addRoom(java.lang.String,\ int)
+comment7.params=description\ duration\ numSeating
+comment7.target=java.lang.String\ addBooking(java.lang.String,\ int,\ int)
+numComments=8

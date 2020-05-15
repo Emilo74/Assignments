@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Booking
+comment1.params=bookingDescription\ bookingDuration\ seating
+comment1.target=Booking(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=int\ getID()
+comment4.params=loc
+comment4.target=void\ setLocation(java.lang.String)
+comment5.params=seats
+comment5.target=void\ setSeats(int)
+comment6.params=dur
+comment6.target=void\ setDuration(int)
+comment7.params=ID
+comment7.target=void\ setID(int)
+comment8.params=descript
+comment8.target=void\ setDescription(java.lang.String)
+numComments=9

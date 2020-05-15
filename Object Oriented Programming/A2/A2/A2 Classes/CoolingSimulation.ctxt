@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=CoolingSimulation
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=
+comment10.target=void\ coolRoom3()
+comment11.params=
+comment11.target=void\ printStates()
+comment11.text=\ \ \ public\ void\ coolRoom4()\r\n\ \ \ {\r\n\ \ \ \ \ \ Room\ room4\ \=\ deviceList.getRoom(4);\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ for(Device\ d\:\ getRoom(1).getDevices()){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ if(\!d.isOn());\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ swapPortableDevices(d,room4);\r\n\ \ \ \ \ \ \ \ }\r\n\r\n\ \ \ \ \ \ \ \ for(Device\ d\:\ getRoom(2).getDevices()){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ if(\!d.isOn());\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ swapPortableDevices(d,room4);\r\n\ \ \ \ \ \ \ \ }\r\n\r\n\ \ \ \ \ \ \ \ for(Device\ d\:\ getRoom(3).getDevices()){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ if(\!d.isOn());\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ swapPortableDevices(d,room4);\r\n\ \ \ \ \ \ \ \ }\r\n\r\n\ \ \ \ \ \ \ \ for(Device\ d\:\ getRoom(4).getDevices())\r\n\ \ \ \ \ \ \ \ \ \ \ \ d.turnOn();\r\n\ \ \ \ }\r\n
+comment2.params=
+comment2.target=CoolingSimulation()
+comment3.params=
+comment3.target=java.util.ArrayList\ getRooms()
+comment4.params=i
+comment4.target=Room\ getRoom(int)
+comment5.params=
+comment5.target=void\ createRooms()
+comment6.params=
+comment6.target=void\ createDevices()
+comment7.params=r1\ r2
+comment7.target=void\ swapPortableDevices(Room,\ Room)
+comment8.params=
+comment8.target=void\ coolRoom1()
+comment9.params=
+comment9.target=void\ coolRoom2()
+numComments=12
