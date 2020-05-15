@@ -1,0 +1,40 @@
+Customer Number     Cable Bill        Phone Bill     Internet Bill          VAT           Total Bill  
+======================================================================================================
+7364893               277                 0              391.29             83.5363             751.826
+
+7364894                 0             17.25              219.99              29.655             266.895
+
+7364895                 0             67.62              391.29             57.3638             516.274
+
+7364896               277              82.8             1999.99             294.974             2654.76
+
+7364897               277              7.59              529.99             101.823             916.403
+
+7364898               277                 0              529.99             100.874             907.864
+
+7364899               277              8.28              219.99             63.1588             568.429
+
+7364900                 0                 0              391.29             48.9113             440.201
+
+7364901               277                 0              529.99             100.874             907.864
+
+7364902                 0              13.8              219.99             29.2238             263.014
+
+7364903               277            153.87                   0             53.8587             484.729
+
+7364904                 0                 0              529.99             66.2487             596.239
+
+7364904               277             76.59                   0             44.1987             397.789
+
+
+
+==========================================================================================================
+
+The number of customers are : 13
+There are 3 customers with Essential internet service.
+There are 3 customers with Max internet service.
+There are 4 customers with Turbo internet service.
+There are 1 customers with Gigabit internet service.
+There are 2 customers without internet service.
+The customer with the highest bill is : 7364896
+The total amount owed by all the customers are : $9672.29
